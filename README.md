@@ -9,6 +9,6 @@
 - [Linkedin](https://www.linkedin.com/ibhushanmunjal)
 - [Instagram](https://www.instagram.com/bhushan_munjal/)
 - [Twitter](https://twitter.com/bhushan_munjal)
-- [Email](bhushanmunjal4@gmail.com)
+- [Portfolio](https://www.bhushanmunjal.netlify.app)
   
 📫 Let's connect! Feel free to reach out if you have any questions, want to collaborate on a project, or just to say hi. 
